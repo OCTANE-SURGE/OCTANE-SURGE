@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OCTANE-SURGE
+- 👋 Hi, I’m Rabar
 - 👀 I’m interested in programming generally
 - 🌱 I’m currently learning java (CS Student.)
 - 📫 How to reach me intsa : raber.h.ahmed
